@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Bright Minds Learning Center",
+    "specialization": "Dyslexia Support",
+    "location": "Downtown",
+    "rating": 4.5,
+    "shortDescription": "Specialized support for children with dyslexia",
+    "longDescription": "Bright Minds Learning Center offers comprehensive dyslexia support programs tailored to each child's needs. Our certified specialists use evidence-based methods to help children improve reading, writing, and spelling skills.",
+    "contactEmail": "contact@brightminds.com",
+    "phoneNumber": "+1 (555) 123-4567"
+  },
+  {
+    "id": 2,
+    "name": "Focus Forward ADHD Coaching",
+    "specialization": "ADHD Coaching",
+    "location": "Westside",
+    "rating": 4.2,
+    "shortDescription": "Personalized coaching for ADHD students",
+    "longDescription": "Focus Forward provides one-on-one coaching for children and teens with ADHD. We help students develop organizational skills, focus strategies, and self-advocacy techniques to succeed in school and life.",
+    "contactEmail": "info@focusforward.com",
+    "phoneNumber": "+1 (555) 234-5678"
+  },
+  {
+    "id": 3,
+    "name": "Spectrum Success Academy",
+    "specialization": "Autism Spectrum Support",
+    "location": "Eastside",
+    "rating": 4.8,
+    "shortDescription": "Specialized programs for children on the autism spectrum",
+    "longDescription": "Spectrum Success Academy offers a supportive environment for children with ASD. Our programs focus on social skills development, communication strategies, and sensory integration techniques.",
+    "contactEmail": "support@spectrumsuccess.com",
+    "phoneNumber": "+1 (555) 345-6789"
+  },
+  {
+    "id": 4,
+    "name": "Learning Bridges",
+    "specialization": "General Learning Difficulties",
+    "location": "Northside",
+    "rating": 4.0,
+    "shortDescription": "Comprehensive support for various learning challenges",
+    "longDescription": "Learning Bridges provides individualized educational support for children with a wide range of learning difficulties. Our team assesses each child's needs and creates customized learning plans.",
+    "contactEmail": "hello@learningbridges.org",
+    "phoneNumber": "+1 (555) 456-7890"
+  },
+  {
+    "id": 5,
+    "name": "Speech & Language Pathways",
+    "specialization": "Speech and Language Therapy",
+    "location": "Southside",
+    "rating": 4.6,
+    "shortDescription": "Expert speech and language therapy services",
+    "longDescription": "Our certified speech-language pathologists work with children experiencing speech delays, articulation disorders, and language processing difficulties. We offer both individual and group therapy sessions.",
+    "contactEmail": "therapy@speechpathways.com",
+    "phoneNumber": "+1 (555) 567-8901"
+  }
+]
